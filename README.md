@@ -4,7 +4,7 @@
 ### 💼 Project Highlights:
 - Integrated and cleaned raw data within SQL for optimized analysis.
 - Created DAX measures including:
-       - Week-over-Week (WoW) metrics for Transaction Count, Transaction Amount, and Revenue, Current vs Previous Week comparisons to monitor trends.
+-         Week-over-Week (WoW) metrics for Transaction Count, Transaction Amount, and Revenue, Current vs Previous Week comparisons to monitor trends.
 - Designed dedicated dashboard pages for Credit Card Transactions and Customer Insights
 - Enabled real-time data refresh by updating SQL records and observing live dashboard updates
 
@@ -13,7 +13,7 @@
 - Revenue: ↑28.8%
 - Transaction Count: ↑3.4%
 - Transaction Amount: ↑35%
-- 
+  
 📅 YTD Summary:
 - Total Revenue: $57M.
 - Total Interest Earned: $8M.
